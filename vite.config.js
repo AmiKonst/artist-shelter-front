@@ -36,7 +36,7 @@ export default ({ mode }) => {
                 minify: true,
                 inject: {
                     data: {
-                        favicon: `/img/${process.env.VITE_APP_PROJECT_FAVICON || 'logo.svg'}`
+                        favicon: `/img/logo.svg`
                     }
                 }
             }),
