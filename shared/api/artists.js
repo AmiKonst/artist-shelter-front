@@ -5,20 +5,20 @@ const useArtistsApi = defineStore('artists-api', {
         artists: [
             {
                 id: 1,
-                photo: '/img/artists/1.jfif',
-                code: 'sexofone',
+                photo: '/img/artists/tyufyakin.jpg',
+                code: 'tyufyakin',
                 name: 'Tyufyakin Konstantin',
-                media: 'https://ta.ru',
+                media: 'https://disk.yandex.ru/d/pG2MHWWZNiQrMQ',
                 links: {
-                    spotify: 'https://spotify',
-                    applemusic: 'https://applemusic',
-                    yandexmusic: 'https://yandexmusic',
-                    youtube: 'https://youtube',
-                    instagram: 'https://instagram',
-                    telegram: 'https://telegram',
-                    threads: 'https://threads',
-                    soundcloud: 'https://soundcloud',
-                    vk: 'https://vk'
+                    spotify: 'https://open.spotify.com/artist/5l0NPpIKBDNIrlyYj9vqVn',
+                    applemusic: 'https://music.apple.com/us/artist/tyufyakin-konstantin/1037558037',
+                    yandexmusic: 'https://music.yandex.ru/artist/5903397',
+                    youtube: 'https://www.youtube.com/@konstantintyufyakin',
+                    instagram: 'https://www.instagram.com/konstantintyufyakin/',
+                    telegram: 'https://t.me/konstantintyufyakin',
+                    threads: 'https://www.threads.com/@konstantintyufyakin',
+                    // soundcloud: '',
+                    vk: 'https://vk.com/artist/konstantintyufyakin'
                 }
             },
             {

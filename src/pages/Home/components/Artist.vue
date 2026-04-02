@@ -1,7 +1,7 @@
 <template>
    <div class="card" :class="[`artist-card-${item.id}`]" v-if="item">
         <div class="card-img">
-            <img :src="artists.randomArtist.photo" :alt="artists.randomArtist.name" />
+            <img :src="item.photo" :alt="item.name" />
         </div>
         <div class="card-name">{{ item.name }}</div>
         <div class="card-desc">{{ item.description }}</div>
