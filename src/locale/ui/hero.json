@@ -1,0 +1,114 @@
+{
+  "en-US": {
+    "badges": [
+      "RANDOM WARD", "URGENTLY NEEDS A HOME", "ARTIST OF THE DAY", "LOSER OF THE WEEK", "LAST ONE FROM THE PLAYLIST",
+      "CANDIDATE FOR ADOPTION", "ALGORITHM VICTIM", "NEEDS LOVE", "QUIETEST IN THE CAGE", "GIVING TO GOOD HANDS",
+      "HOT OFFER", "SURVIVOR BIAS", "STAR ON HOLD", "HEADPHONE TRAINED", "AI-FREE",
+      "SAD WITHOUT VIEWS", "YOUR FUTURE FAVORITE", "FOUND IN TRASH", "DOESN'T BITE (ALMOST)", "LAST CHANCE FOR A HIT"
+    ]
+  },
+  "zh-CN": {
+    "badges": [
+      "随机收容者", "急需领养", "今日艺人", "本周倒霉蛋", "播放列表的遗珠",
+      "待领养候选人", "算法受害者", "渴望关爱", "笼中最安静的一个", "寻找好人家",
+      "热门之选", "幸存者偏差", "暂住的小星", "已适应耳机", "纯天然无AI",
+      "因无点击而忧郁", "你未来的最爱", "在回收站发现", "（几乎）不咬人", "最后成名机会"
+    ]
+  },
+  "fr-FR": {
+    "badges": [
+      "PROTÉGÉ AU HASARD", "URGENT : CHERCHE FOYER", "ARTISTE DU JOUR", "LE MALHEUREUX DE LA SEMAINE", "LE DERNIER DE LA LISTE",
+      "CANDIDAT À L'ADOPTION", "VICTIME DES ALGORITHMES", "BESOIN D'AMOUR", "LE PLUS CALME DU REFUGE", "À PLACER EN BONNES MAINS",
+      "OFFRE SPÉCIALE", "BIAIS DE SURVIE", "ÉTOILE EN ATTENTE", "HABITUÉ AU CASQUE", "SANS IA",
+      "TRISTE SANS VUES", "VOTRE FUTUR PRÉFÉRÉ", "TROUVÉ DANS LA CORBEILLE", "NE MORD PAS (PRESQUE)", "DERNIÈRE CHANCE DE HIT"
+    ]
+  },
+  "de-DE": {
+    "badges": [
+      "ZUFÄLLIGER SCHÜTZLING", "SUCHT DRINGEND EIN ZUHAUSE", "KÜNSTLER DES TAGES", "PECHVOGEL DER WOCHE", "DER LETZTE AUS DER PLAYLIST",
+      "KANDIDAT ZUR ADOPTION", "ALGORITHMUS-OPFER", "BRAUCHT LIEBE", "STILLSTER IM ZWINGER", "IN GUTE HÄNDE ABZUGEBEN",
+      "HEISSES ANGEBOT", "SURVIVOR BIAS", "STAR AUF ZEIT", "KOPFHÖRER-GEWÖHNT", "KI-FREI",
+      "TRAURIG OHNE VIEWS", "DEIN KÜNFTIGER LIEBLING", "IM PAPIERKORB GEFUNDEN", "BEISST NICHT (FAST)", "LETZTE CHANCE AUF EINEN HIT"
+    ]
+  },
+  "it-IT": {
+    "badges": [
+      "PROTETTO CASUALE", "CERCA CASA URGENTEMENTE", "ARTISTA DEL GIORNO", "IL POVERETTO DELLA SETTIMANA", "L'ULTIMO DELLA PLAYLIST",
+      "CANDIDATO ALL'ADOZIONE", "VITTIMA DEGLI ALGORITMI", "IN CERCA D'AMORE", "IL PIÙ CALMO DEL RIFUGIO", "CERCASI BUONE MANI",
+      "OFFERTA CALDA", "BIAS DI SOPRAVVIVENZA", "STELLA IN AFFIDO", "ABITUATO ALLE CUFFIE", "SENZA IA",
+      "TRISTE SENZA VISUALIZZAZIONI", "IL TUO FUTURO PREFERITO", "TROVATO NEL CESTINO", "NON MORDE (QUASI)", "L'ULTIMA CHANCE PER UN HIT"
+    ]
+  },
+  "ja-JP": {
+    "badges": [
+      "ランダムな迷子", "至急、里親募集中", "今日のアーティスト", "今週の不運な子", "プレイリストの最後の一人",
+      "入居候補者", "アルゴリズムの犠牲者", "愛が必要です", "一番静かな子", "優しい里親さんへ",
+      "注目の掘り出し物", "生存者バイアス", "一時預かり中のスター", "ヘッドホンに慣れています", "AI未使用",
+      "再生数がなくて寂しい", "あなたの未来の推し", "ゴミ箱で見つかりました", "（ほぼ）噛みません", "ヒットへのラストチャンス"
+    ]
+  },
+  "pt-BR": {
+    "badges": [
+      "PROTEGIDO ALEATÓRIO", "PRECISA URGENTE DE UM LAR", "ARTISTA DO DIA", "COITADO DA SEMANA", "O ÚLTIMO DA PLAYLIST",
+      "CANDIDATO À ADOÇÃO", "VÍTIMA DOS ALGORITMOS", "PRECISA DE AMOR", "O MAIS QUIETO DO CANIL", "PARA BOAS MÃOS",
+      "OFERTA QUENTE", "VIÉS DE SOBREVIVÊNCIA", "ESTRELA EM ESPERA", "ACOSTUMADO COM FONES", "LIVRE DE IA",
+      "TRISTE SEM VIEWS", "SEU FUTURO FAVORITO", "ACHADO NA LIXEIRA", "NÃO MORDE (QUASE)", "ÚLTIMA CHANCE PARA UM HIT"
+    ]
+  },
+  "es-ES": {
+    "badges": [
+      "PROTEGIDO AL AZAR", "URGE ADOPCIÓN", "ARTISTA DEL DÍA", "EL DESDICHADO DE LA SEMANA", "EL ÚLTIMO DE LA LISTA",
+      "CANDIDATO A ADOPCIÓN", "VÍCTIMA DEL ALGORITMO", "NECESITA AMOR", "EL MÁS MANSO DEL REFUGIO", "EN BUENAS MANOS",
+      "OFERTA CALIENTE", "SESGO DE SUPERVIVENCIA", "ESTRELLA EN ACOGIDA", "ACOSTUMADO A CASCOS", "SIN IA",
+      "TRISTE SIN VISUALIZACIONES", "TU FUTURO FAVORITO", "HALLADO EN LA PAPELERA", "NO MUERDE (CASI)", "ÚLTIMA OPORTUNIDAD DE ÉXITO"
+    ]
+  },
+  "ko-KR": {
+    "badges": [
+      "무작위 보호 대상", "긴급 입양 필요", "오늘의 아티스트", "이주의 불쌍한 이", "플레이리스트의 마지막 생존자",
+      "입양 후보자", "알고리즘의 희생양", "사랑이 필요함", "가장 조용한 친구", "좋은 분께 드립니다",
+      "핫한 제안", "생존자 편향", "임시 보호 중인 스타", "헤드폰에 적응됨", "AI 청정 구역",
+      "조회수가 없어 슬픔", "미래의 최애", "휴지통에서 발견됨", "(거의) 물지 않음", "히트곡을 위한 마지막 기회"
+    ]
+  },
+  "hi-IN": {
+    "badges": [
+      "यादृच्छिक आश्रित", "घर की तत्काल आवश्यकता", "आज का कलाकार", "सप्ताह का बेचारा", "प्लेलिस्ट का आखिरी",
+      "गोद लेने का उम्मीदवार", "एल्गोरिदम का शिकार", "प्यार की ज़रूरत", "सबसे शांत", "अच्छे हाथों में दें",
+      "हॉट ऑफर", "उत्तरजीविता पूर्वाग्रह", "होल्ड पर स्टार", "हेडफ़ोन का अभ्यस्त", "AI से मुक्त",
+      "व्यूज़ के बिना दुखी", "आपका भविष्य का पसंदीदा", "ट्रैश में मिला", "काटता नहीं (लगभग)", "हिट होने का आखिरी मौका"
+    ]
+  },
+  "tr-TR": {
+    "badges": [
+      "RASTGELE GARİBAN", "ACİL YUVA ARIYOR", "GÜNÜN SANATÇISI", "HAFTANIN TALİHSİZİ", "LİSTEDEKİ SON KİŞİ",
+      "SAHİPLENME ADAYI", "ALGORİTMA KURBANI", "SEVGİYE MUHTAÇ", "BARINAĞIN EN SESSİZİ", "İYİ ELLER ARANIYOR",
+      "SICAK TEKLİF", "HAYATTA KALMA ÖNYARGISI", "GEÇİCİ KONAKLAYAN STAR", "KULAKLIĞA ALIŞKIN", "YAPAY ZEKA İÇERMEZ",
+      "İZLENMESİZLİKTEN ÜZGÜN", "GELECEKTEKİ FAVORİNİZ", "ÇÖP KUTUSUNDA BULUNDU", "ISIRMAZ (NEREDEYSE)", "SON HİT ŞANSI"
+    ]
+  },
+  "ru-RU": {
+    "badges": [
+      "СЛУЧАЙНЫЙ ПОДОПЕЧНЫЙ",
+      "СРОЧНО ИЩЕТ ДОМ",
+      "АРТИСТ ДНЯ",
+      "БЕДОЛАГА НЕДЕЛИ",
+      "ПОСЛЕДНИЙ ИЗ ПЛЕЙЛИСТА",
+      "КАНДИДАТ НА УСЫНОВЛЕНИЕ",
+      "ЖЕРТВА АЛГОРИТМОВ",
+      "ЭТОМУ НУЖНА ЛЮБОВЬ",
+      "САМЫЙ ТИХИЙ В ВОЛЬЕРЕ",
+      "ОТДАДИМ В ДОБРЫЕ РУКИ",
+      "ГОРЯЧЕЕ ПРЕДЛОЖЕНИЕ",
+      "ОШИБКА ВЫЖИВШЕГО",
+      "ЗВЕЗДА НА ПЕРЕДЕРЖКЕ",
+      "ПРИУЧЕН К НАУШНИКАМ",
+      "ЧИСТ ОТ НЕЙРОСЕТЕЙ",
+      "ГРУСТИТ БЕЗ ПРОСМОТРОВ",
+      "ВАШ БУДУЩИЙ ЛЮБИМЧИК",
+      "НАЙДЕН В КОРЗИНЕ",
+      "НЕ КУСАЕТСЯ (ПОЧТИ)",
+      "ПОСЛЕДНИЙ ШАНС НА ХИТ"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "en-US": {
+    "questionnaire": "Profile",
+    "pick-up": "Adopt"
+  },
+  "zh-CN": {
+    "questionnaire": "档案",
+    "pick-up": "收容"
+  },
+  "fr-FR": {
+    "questionnaire": "Profil",
+    "pick-up": "Adopter"
+  },
+  "de-DE": {
+    "questionnaire": "Profil",
+    "pick-up": "Adoptieren"
+  },
+  "it-IT": {
+    "questionnaire": "Profilo",
+    "pick-up": "Adotta"
+  },
+  "ja-JP": {
+    "questionnaire": "プロフィール",
+    "pick-up": "引き取る"
+  },
+  "pt-BR": {
+    "questionnaire": "Perfil",
+    "pick-up": "Adotar"
+  },
+  "es-ES": {
+    "questionnaire": "Perfil",
+    "pick-up": "Adoptar"
+  },
+  "ko-KR": {
+    "questionnaire": "프로필",
+    "pick-up": "입양하기"
+  },
+  "ru-RU": {
+    "questionnaire": "Анкета",
+    "pick-up": "Забрать"
+  },
+  "hi-IN": {
+    "questionnaire": "प्रोफ़ाइल",
+    "pick-up": "गोद लें"
+  },
+  "tr-TR": {
+    "questionnaire": "Profil",
+    "pick-up": "Sahiplen"
+  }
+}

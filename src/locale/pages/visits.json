@@ -1,0 +1,424 @@
+{
+  "en-US": {
+    "title": "Raising for 'Vitamins'",
+    "description": "All donations go toward server costs and buying plugins for homeless artists.",
+    "qr": { "title": "Crypto Feeders" },
+    "levels": {
+      "title": "Choose care package size",
+      "level-1": "KIBBLE",
+      "level-2": "VITAMINS",
+      "level-3": "VIP CARE"
+    },
+    "form": {
+      "title": "Send a Parcel",
+      "hash": "Transaction Hash (so we can find your transfer)",
+      "artist": {
+        "title": "Who are we warming up?",
+        "placeholder": "Start typing name or ID (e.g. Tyuf...)"
+      },
+      "description": "Note text (will appear in history)",
+      "result": {
+        "all": "Share equally",
+        "all-label": "Common pot"
+      },
+      "submit": "Throw over the fence"
+    },
+    "log": {
+      "title": "Visitor Log",
+      "from": "From",
+      "artist": "Destination",
+      "rank-3": "Royal Care",
+      "rank-2": "Vitamins",
+      "rank-1": "Kibble"
+    },
+    "attention-1": "* Warning: Administration is not responsible for funds spent.",
+    "attention-2": "All artists are spiritually full but physically hungry."
+  },
+  "zh-CN": {
+    "title": "筹集“维生素”",
+    "description": "所有捐款都将用于支付服务器费用和为流浪艺人购买插件。",
+    "qr": { "title": "加密喂食器" },
+    "levels": {
+      "title": "选择慰问包大小",
+      "level-1": "干粮",
+      "level-2": "维生素",
+      "level-3": "VIP 护理"
+    },
+    "form": {
+      "title": "寄送包裹",
+      "hash": "交易哈希（以便我们找到您的汇款）",
+      "artist": {
+        "title": "我们要温暖谁？",
+        "placeholder": "开始输入姓名或 ID（例如：Tyuf...）"
+      },
+      "description": "笔记内容（将出现在历史记录中）",
+      "result": {
+        "all": "均分",
+        "all-label": "公共大锅"
+      },
+      "submit": "扔过围栏"
+    },
+    "log": {
+      "title": "访问日志",
+      "from": "来自",
+      "artist": "目的地",
+      "rank-3": "皇室护理",
+      "rank-2": "维生素",
+      "rank-1": "干粮"
+    },
+    "attention-1": "* 注意：管理部门不对支出的资金负责。",
+    "attention-2": "艺人们精神富足，但肉体仍需饱腹。"
+  },
+  "fr-FR": {
+    "title": "Collecte pour les 'Vitamines'",
+    "description": "Tous les dons servent à payer les serveurs et à acheter des plugins pour les artistes sans-abri.",
+    "qr": { "title": "Mangeoires Crypto" },
+    "levels": {
+      "title": "Choisissez la taille du colis",
+      "level-1": "CROQUETTES",
+      "level-2": "VITAMINES",
+      "level-3": "SOINS VIP"
+    },
+    "form": {
+      "title": "Envoyer un Colis",
+      "hash": "Hash de transaction (pour retrouver votre transfert)",
+      "artist": {
+        "title": "Pour qui est-ce ?",
+        "placeholder": "Tapez un nom ou un ID (ex: Tyuf...)"
+      },
+      "description": "Texte de la note (apparaîtra dans l'historique)",
+      "result": {
+        "all": "Partager également",
+        "all-label": "Chaudron commun"
+      },
+      "submit": "Lancer par-dessus la clôture"
+    },
+    "log": {
+      "title": "Registre des Visites",
+      "from": "De",
+      "artist": "Destination",
+      "rank-3": "Soin Royal",
+      "rank-2": "Vitamines",
+      "rank-1": "Croquettes"
+    },
+    "attention-1": "* Attention : L'administration n'est pas responsable des fonds dépensés.",
+    "attention-2": "Les artistes sont rassasiés spirituellement, mais affamés physiquement."
+  },
+  "de-DE": {
+    "title": "Sammeln für 'Vitamine'",
+    "description": "Alle Spenden fließen in Serverkosten und Plugins für obdachlose Künstler.",
+    "qr": { "title": "Krypto-Futterstellen" },
+    "levels": {
+      "title": "Wähle die Paketgröße",
+      "level-1": "TROCKENFUTTER",
+      "level-2": "VITAMINE",
+      "level-3": "VIP PFLEGE"
+    },
+    "form": {
+      "title": "Paket fertigmachen",
+      "hash": "Transaktions-Hash (damit wir die Zahlung finden)",
+      "artist": {
+        "title": "Wem machen wir eine Freude?",
+        "placeholder": "Name oder ID eingeben (z.B. Tyuf...)"
+      },
+      "description": "Nachrichtentext (erscheint im Verlauf)",
+      "result": {
+        "all": "Gerecht teilen",
+        "all-label": "Gemeinschaftstopf"
+      },
+      "submit": "Über den Zaun werfen"
+    },
+    "log": {
+      "title": "Besuchsprotokoll",
+      "from": "Von",
+      "artist": "Bestimmung",
+      "rank-3": "Königliche Pflege",
+      "rank-2": "Vitamine",
+      "rank-1": "Trockenfutter"
+    },
+    "attention-1": "* Achtung: Die Verwaltung übernimmt keine Haftung für ausgegebene Mittel.",
+    "attention-2": "Alle Künstler sind geistig satt, aber physisch hungrig."
+  },
+  "it-IT": {
+    "title": "Raccolta per le 'Vitamine'",
+    "description": "Tutte le donazioni vanno ai costi del server e all'acquisto di plugin per artisti senzatetto.",
+    "qr": { "title": "Mangiatoie Crypto" },
+    "levels": {
+      "title": "Scegli la dimensione del pacco",
+      "level-1": "CROCCHETTE",
+      "level-2": "VITAMINE",
+      "level-3": "CURA VIP"
+    },
+    "form": {
+      "title": "Prepara il pacco",
+      "hash": "Hash della transazione (per trovare il tuo trasferimento)",
+      "artist": {
+        "title": "A chi scaldiamo il cuore?",
+        "placeholder": "Inserisci nome o ID (es: Tyuf...)"
+      },
+      "description": "Messaggio (apparirà nella cronologia)",
+      "result": {
+        "all": "Dividi equamente",
+        "all-label": "Calderone comune"
+      },
+      "submit": "Lancia oltre la recinzione"
+    },
+    "log": {
+      "title": "Registro Visite",
+      "from": "Da",
+      "artist": "Destinazione",
+      "rank-3": "Cura Reale",
+      "rank-2": "Vitamine",
+      "rank-1": "Crocchette"
+    },
+    "attention-1": "* Attenzione: L'amministrazione non è responsabile per i fondi spesi.",
+    "attention-2": "Gli artisti sono spiritualmente sazi, ma fisicamente affamati."
+  },
+  "ja-JP": {
+    "title": "「ビタミン」募金",
+    "description": "すべての寄付はサーバー代とホームレス・アーティストのためのプラグイン購入に充てられます。",
+    "qr": { "title": "クリプト給餌器" },
+    "levels": {
+      "title": "差し入れのサイズを選択",
+      "level-1": "カリカリ",
+      "level-2": "ビタミン",
+      "level-3": "VIPケア"
+    },
+    "form": {
+      "title": "差し入れを送る",
+      "hash": "トランザクションハッシュ（送金を確認するため）",
+      "artist": {
+        "title": "誰を温めますか？",
+        "placeholder": "名前またはIDを入力（例：Tyuf...）"
+      },
+      "description": "メッセージ（履歴に表示されます）",
+      "result": {
+        "all": "みんなで分ける",
+        "all-label": "共同の鍋"
+      },
+      "submit": "フェンス越しに投げ入れる"
+    },
+    "log": {
+      "title": "面会記録",
+      "from": "送り主",
+      "artist": "宛先",
+      "rank-3": "ロイヤルケア",
+      "rank-2": "ビタミン",
+      "rank-1": "カリカリ"
+    },
+    "attention-1": "※注意：管理人は支出された資金に対して責任を負いません。",
+    "attention-2": "アーティストたちは精神的には満たされていますが、肉体はお腹を空かせています。"
+  },
+  "pt-BR": {
+    "title": "Arrecadação para 'Vitaminas'",
+    "description": "Todas as doações vão para custos de servidor e compra de plugins para artistas desabrigados.",
+    "qr": { "title": "Alimentadores Cripto" },
+    "levels": {
+      "title": "Escolha o tamanho da encomenda",
+      "level-1": "RAÇÃO",
+      "level-2": "VITAMINAS",
+      "level-3": "CUIDADO VIP"
+    },
+    "form": {
+      "title": "Preparar Encomenda",
+      "hash": "Hash da transação (para encontrarmos sua transferência)",
+      "artist": {
+        "title": "Quem vamos aquecer?",
+        "placeholder": "Digite o nome ou ID (ex: Tyuf...)"
+      },
+      "description": "Texto do bilhete (aparecerá no histórico)",
+      "result": {
+        "all": "Dividir igualmente",
+        "all-label": "Caldeirão comum"
+      },
+      "submit": "Jogar por cima do muro"
+    },
+    "log": {
+      "title": "Registro de Visitas",
+      "from": "De",
+      "artist": "Destino",
+      "rank-3": "Cuidado Real",
+      "rank-2": "Vitaminas",
+      "rank-1": "Ração"
+    },
+    "attention-1": "* Atenção: A administração não se responsabiliza pelos fundos gastos.",
+    "attention-2": "Todos os artistas estão espiritualmente cheios, mas fisicamente famintos."
+  },
+  "es-ES": {
+    "title": "Colecta para 'Vitaminas'",
+    "description": "Todas las donaciones se destinan a gastos de servidor y compra de plugins para artistas sin hogar.",
+    "qr": { "title": "Comederos Cripto" },
+    "levels": {
+      "title": "Elige el tamaño del paquete",
+      "level-1": "PIENSO",
+      "level-2": "VITAMINAS",
+      "level-3": "CUIDADO VIP"
+    },
+    "form": {
+      "title": "Preparar Paquete",
+      "hash": "Hash de transacción (para que encontremos tu transferencia)",
+      "artist": {
+        "title": "¿A quién vamos a animar?",
+        "placeholder": "Escribe nombre o ID (ej: Tyuf...)"
+      },
+      "description": "Texto de la nota (aparecerá en el historial)",
+      "result": {
+        "all": "Dividir a partes iguales",
+        "all-label": "Caldero común"
+      },
+      "submit": "Lanzar por encima de la valla"
+    },
+    "log": {
+      "title": "Registro de Visitas",
+      "from": "De",
+      "artist": "Destino",
+      "rank-3": "Cuidado Real",
+      "rank-2": "Vitaminas",
+      "rank-1": "Pienso"
+    },
+    "attention-1": "* Atención: La administración no se hace responsable de los fondos gastados.",
+    "attention-2": "Todos los artistas están espiritualmente llenos, pero físicamente hambrientos."
+  },
+  "ko-KR": {
+    "title": "'비타민' 모금",
+    "description": "모든 후원금은 서버 비용과 유기 아티스트들을 위한 플러그인 구매에 사용됩니다.",
+    "qr": { "title": "크립토 급식기" },
+    "levels": {
+      "title": "위문품 크기 선택",
+      "level-1": "사료",
+      "level-2": "비타민",
+      "level-3": "VIP 케어"
+    },
+    "form": {
+      "title": "위문품 보내기",
+      "hash": "트랜잭션 해시 (입금 확인용)",
+      "artist": {
+        "title": "누구의 마음을 녹여줄까요?",
+        "placeholder": "이름이나 ID 입력 (예: Tyuf...)"
+      },
+      "description": "메시지 (기록에 표시됨)",
+      "result": {
+        "all": "공평하게 나누기",
+        "all-label": "공용 솥"
+      },
+      "submit": "담장 너머로 던지기"
+    },
+    "log": {
+      "title": "방문 기록",
+      "from": "보낸 이",
+      "artist": "대상",
+      "rank-3": "황실 케어",
+      "rank-2": "비타민",
+      "rank-1": "사료"
+    },
+    "attention-1": "* 주의: 관리국은 지출된 자금에 대해 책임을 지지 않습니다.",
+    "attention-2": "아티스트들은 영적으로는 충만하지만, 육체적으로는 배가 고픕니다."
+  },
+  "ru-RU": {
+    "title": "Сбор на «Витамины»",
+    "description": "Все донаты идут на оплату серверов и покупку плагинов для бездомных артистов.",
+    "qr": {
+      "title": "Крипто-кормушки"
+    },
+    "levels": {
+      "title": "Выберите размер передачки",
+      "level-1": "СУХПАЕК",
+      "level-2": "ВИТАМИНЫ",
+      "level-3": "VIP УХОД"
+    },
+    "form": {
+      "title": "Оформить передачку",
+      "hash": "Хэш транзакции (чтобы мы нашли ваш перевод)",
+      "artist": {
+        "title": "Кому греем душу?",
+        "placeholder": "Начните вводить имя или ID (напр: Tyuf...)"
+      },
+      "description": "Текст записки (появится в истории)",
+      "result": {
+        "all": "Всем поровну",
+        "all-label": "Общий котел"
+      },
+      "submit": "Закинуть через забор"
+    },
+    "log": {
+      "title": "Журнал посещений",
+      "from": "От",
+      "artist": "Назначение",
+      "rank-3": "Королевский уход",
+      "rank-2": "Витамины",
+      "rank-1": "Сухпаёк"
+    },
+    "attention-1": "* Внимание: Администрация не несет ответственности за потраченные средства.",
+    "attention-2": "Все артисты сыты духовно, но хотят кушать физически."
+  },
+  "hi-IN": {
+    "title": "'विटामिन' के लिए धन जुटाना",
+    "description": "सभी दान सर्वर लागत और बेघर कलाकारों के लिए प्लगइन्स खरीदने में जाते हैं।",
+    "qr": { "title": "क्रिप्टो फीडर" },
+    "levels": {
+      "title": "देखभाल पैकेज का आकार चुनें",
+      "level-1": "सूखा भोजन",
+      "level-2": "विटामिन",
+      "level-3": "वीआईपी देखभाल"
+    },
+    "form": {
+      "title": "पार्सल भेजें",
+      "hash": "लेनदेन हैश (ताकि हम आपका ट्रांसफर ढूंढ सकें)",
+      "artist": {
+        "title": "हम किसे खुश कर रहे हैं?",
+        "placeholder": "नाम या आईडी दर्ज करें (जैसे: Tyuf...)"
+      },
+      "description": "नोट का टेक्स्ट (इतिहास में दिखाई देगा)",
+      "result": {
+        "all": "बराबर बांटें",
+        "all-label": "साझा बर्तन"
+      },
+      "submit": "बाड़ के ऊपर से फेंकें"
+    },
+    "log": {
+      "title": "विज़िटर लॉग",
+      "from": "से",
+      "artist": "गंतव्य",
+      "rank-3": "शाही देखभाल",
+      "rank-2": "विटामिन",
+      "rank-1": "सूखा भोजन"
+    },
+    "attention-1": "* चेतावनी: प्रशासन खर्च किए गए धन के लिए जिम्मेदार नहीं है।",
+    "attention-2": "सभी कलाकार आध्यात्मिक रूप से तृप्त हैं लेकिन शारीरिक रूप से भूखे हैं।"
+  },
+  "tr-TR": {
+    "title": "'Vitamin' Bağışı",
+    "description": "Tüm bağışlar sunucu masrafları ve evsiz sanatçılar için eklenti satın almak için kullanılır.",
+    "qr": { "title": "Kripto Besleyiciler" },
+    "levels": {
+      "title": "Paket boyutunu seçin",
+      "level-1": "MAMA",
+      "level-2": "VİTAMİN",
+      "level-3": "VIP BAKIM"
+    },
+    "form": {
+      "title": "Paket Gönder",
+      "hash": "İşlem Özeti (transferinizi bulabilmemiz için)",
+      "artist": {
+        "title": "Kimin içini ısıtıyoruz?",
+        "placeholder": "İsim veya ID yazın (örn: Tyuf...)"
+      },
+      "description": "Not metni (geçmişte görünecektir)",
+      "result": {
+        "all": "Eşit paylaş",
+        "all-label": "Ortak kazan"
+      },
+      "submit": "Çitin üzerinden fırlat"
+    },
+    "log": {
+      "title": "Ziyaretçi Defteri",
+      "from": "Gönderen",
+      "artist": "Hedef",
+      "rank-3": "Kraliyet Bakımı",
+      "rank-2": "Vitamin",
+      "rank-1": "Mama"
+    },
+    "attention-1": "* Uyarı: Yönetim harcanan paralardan sorumlu değildir.",
+    "attention-2": "Sanatçılar ruhen tok ama bedenen açlar."
+  }
+}

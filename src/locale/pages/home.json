@@ -1,0 +1,86 @@
+{
+  "en-US": {
+    "artists": {
+      "our-wards": "Our Wards",
+      "description": "They are waiting for you to add them to your next meme or video.",
+      "more": "LOAD MORE UNDERDOGS"
+    }
+  },
+  "zh-CN": {
+    "artists": {
+      "our-wards": "我们的收容者",
+      "description": "它们正等着你把它们加入到你的下一个梗或视频中。",
+      "more": "加载更多倒霉蛋"
+    }
+  },
+  "fr-FR": {
+    "artists": {
+      "our-wards": "Nos protégés",
+      "description": "Ils attendent que vous les ajoutiez à votre prochain mème ou vidéo.",
+      "more": "CHARGER PLUS DE MALHEUREUX"
+    }
+  },
+  "de-DE": {
+    "artists": {
+      "our-wards": "Unsere Schützlinge",
+      "description": "Sie warten darauf, von dir in dein nächstes Meme oder Video aufgenommen zu werden.",
+      "more": "MEHR PECHVÖGEL LADEN"
+    }
+  },
+  "it-IT": {
+    "artists": {
+      "our-wards": "I nostri protetti",
+      "description": "Aspettano solo di essere aggiunti al tuo prossimo meme o video.",
+      "more": "CARICA ALTRI POVERETTI"
+    }
+  },
+  "ja-JP": {
+    "artists": {
+      "our-wards": "保護アーティスト",
+      "description": "彼らはあなたが次のミームやビデオに加えてくれるのを待っています。",
+      "more": "もっと迷子を読み込む"
+    }
+  },
+  "pt-BR": {
+    "artists": {
+      "our-wards": "Nossos protegidos",
+      "description": "Eles estão esperando você adicioná-los ao seu próximo meme ou vídeo.",
+      "more": "CARREGAR MAIS COITADOS"
+    }
+  },
+  "es-ES": {
+    "artists": {
+      "our-wards": "Nuestros protegidos",
+      "description": "Están esperando a que los añadas a tu próximo meme o vídeo.",
+      "more": "CARGAR MÁS DESDICHADOS"
+    }
+  },
+  "ko-KR": {
+    "artists": {
+      "our-wards": "우리의 보호 대상",
+      "description": "이들은 당신이 다음 밈이나 비디오에 추가해주기를 기다리고 있습니다.",
+      "more": "더 많은 불쌍한 이들 불러오기"
+    }
+  },
+  "ru-RU": {
+    "artists": {
+      "our-wards": "Наши подопечные",
+      "description": "Они ждут, когда вы добавите их в свой следующий мем или видео.",
+      "more": "ЗАГРУЗИТЬ ЕЩЁ СТРАДАЛЬЦЕВ"
+    }
+  },
+  "hi-IN": {
+    "artists": {
+      "our-wards": "हमारे आश्रित",
+      "description": "वे आपके अगले मीम или वीडियो में जोड़े जाने का इंतज़ार कर रहे हैं।",
+      "more": "और बेचारे कलाकारों को लोड करें"
+    }
+  },
+  "tr-TR": {
+    "artists": {
+      "our-wards": "Himayemizdekiler",
+      "description": "Bir sonraki videonuza veya Caminize eklemeniz için sizi bekliyorlar.",
+      "more": "DAHA FAZLA GARİBAN YÜKLE"
+    }
+  }
+}

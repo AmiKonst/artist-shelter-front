@@ -1,0 +1,134 @@
+{
+  "en-US": {
+    "help": "Help",
+    "submit": "Drop an Artist",
+    "job": "Volunteer",
+    "nav": "Navigation",
+    "catalog": "Catalog",
+    "about": "About",
+    "contacts": "Contacts",
+    "rights": "No bits were harmed.",
+    "description": "The world's first digital shelter for artists deactivated by algorithms. We believe every track deserves a second chance."
+  },
+  "zh-CN": {
+    "catalog": "目录",
+    "about": "关于",
+    "contacts": "联系方式",
+    "help": "帮助",
+    "submit": "投放艺人",
+    "job": "成为志愿者",
+    "nav": "导航",
+    "rights": "没有比特受到伤害。",
+    "description": "世界上第一个为被算法停用的艺人设立 cycle 的数字收容所。我们相信每一首歌都值得第二次机会。"
+  },
+  "fr-FR": {
+    "help": "Aide",
+    "submit": "Déposer un artiste",
+    "job": "Devenir bénévole",
+    "nav": "Navigation",
+    "catalog": "Catalogue",
+    "about": "À propos",
+    "contacts": "Contacts",
+    "rights": "Aucun bit n'a été maltraité.",
+    "description": "Le premier refuge numérique au monde pour les artistes désactivés par les algorithmes. Nous croyons que chaque morceau mérite une seconde chance."
+  },
+  "de-DE": {
+    "help": "Hilfe",
+    "submit": "Künstler abgeben",
+    "job": "Freiwilliger werden",
+    "nav": "Navigation",
+    "catalog": "Katalog",
+    "about": "Über uns",
+    "contacts": "Kontakte",
+    "rights": "Kein Bit kam zu Schaden.",
+    "description": "Das weltweit erste digitale Tierheim für von Algorithmen deaktivierte Künstler. Wir glauben, dass jeder Track eine zweite Chance verdient."
+  },
+  "it-IT": {
+    "help": "Aiuto",
+    "submit": "Affida un artista",
+    "job": "Diventa volontario",
+    "nav": "Navigazione",
+    "catalog": "Catalogo",
+    "about": "Chi siamo",
+    "contacts": "Contatti",
+    "rights": "Nessun bit è stato maltrattato.",
+    "description": "Il primo rifugio digitale al mondo per artisti disattivati dagli algoritmi. Crediamo che ogni traccia meriti una seconda possibilità."
+  },
+  "ja-JP": {
+    "help": "ヘルプ",
+    "submit": "アーティストを預ける",
+    "job": "ボランティアになる",
+    "nav": "ナビゲーション",
+    "catalog": "カタログ",
+    "about": "シェルターについて",
+    "contacts": "連絡先",
+    "rights": "ビットへの被害は一切ありません。",
+    "description": "アルゴリズムによって無効化されたアーティストのための世界初のデジタルシェルター。私たちはすべてのトラックにセカンドチャンスがあると信じています。"
+  },
+  "pt-BR": {
+    "help": "Ajuda",
+    "submit": "Deixar um artista",
+    "job": "Ser voluntário",
+    "nav": "Navegação",
+    "catalog": "Catálogo",
+    "about": "Sobre",
+    "contacts": "Contatos",
+    "rights": "Nenhum bit foi ferido.",
+    "description": "O primeiro abrigo digital do mundo para artistas desativados por algoritmos. Acreditamos que cada faixa merece uma segunda chance."
+  },
+  "es-ES": {
+    "help": "Ayuda",
+    "submit": "Entregar un artista",
+    "job": "Ser voluntario",
+    "nav": "Navegación",
+    "catalog": "Catálogo",
+    "about": "Sobre nosotros",
+    "contacts": "Contactos",
+    "rights": "Ningún bit sufrió daños.",
+    "description": "El primer refugio digital del mundo para artistas desactivados por algoritmos. Creemos que cada pista merece una segunda oportunidad."
+  },
+  "ko-KR": {
+    "help": "도움말",
+    "submit": "아티스트 맡기기",
+    "job": "자원봉사하기",
+    "nav": "네비게이션",
+    "catalog": "카탈로그",
+    "about": "정보",
+    "contacts": "연락처",
+    "rights": "비트는 다치지 않았습니다.",
+    "description": "알고리즘에 의해 비활성화된 아티스트를 위한 세계 최초의 디지털 보호소. 우리는 모든 트랙이 두 번째 기회를 가질 자격이 있다고 믿습니다."
+  },
+  "hi-IN": {
+    "help": "सहायता",
+    "submit": "कलाकार छोड़ें",
+    "job": "स्वयंसेवक बनें",
+    "nav": "नेविगेशन",
+    "catalog": "सूची",
+    "about": "बारे में",
+    "contacts": "संपर्क",
+    "rights": "किसी भी बिट को नुकसान नहीं पहुँचाया गया।",
+    "description": "एल्गोरिदम द्वारा निष्क्रिय किए गए कलाकारों के लिए दुनिया का पहला डिजिटल आश्रय। हमारा मानना ​​है कि हर ट्रैक एक दूसरे मौके का हकदार है।"
+  },
+  "tr-TR": {
+    "help": "Yardım",
+    "submit": "Sanatçı Bırak",
+    "job": "Gönüllü Ol",
+    "nav": "Navigasyon",
+    "catalog": "Katalog",
+    "about": "Hakkımızda",
+    "contacts": "İletişim",
+    "rights": "Hiçbir bit zarar görmedi.",
+    "description": "Algoritmalar tarafından devre dışı bırakılan sanatçılar için dünyanın ilk dijital barınağı. Her parçanın ikinci bir şansı hak ettiğine inanıyoruz."
+  },
+  "ru-RU": {
+    "help": "Помощь",
+    "submit": "Подкинуть артиста",
+    "job": "Стать волонтером",
+    "nav": "Навигация",
+    "catalog": "Каталог",
+    "about": "О приюте",
+    "contacts": "Контакты",
+    "rights": "Ни один бит не пострадал.",
+    "description": "Первый в мире цифровой приют для артистов, деактивированных алгоритмами. Мы верим, что каждый трек заслуживает второй шанс."
+  }
+}

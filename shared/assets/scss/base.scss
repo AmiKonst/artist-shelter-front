@@ -1,0 +1,38 @@
+:root {
+    --bg: #f8fafc;
+    --card-bg: #ffffff;
+    --primary: #ff6b6b;
+    --secondary: #4ecdc4;
+    --text-main: #1e293b;
+    --text-muted: #64748b;
+    --radius: 16px;
+    --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    scrollbar-width: thin;          /* Делает скролл тонким */
+    scrollbar-color: #ccc transparent; /* Цвет ползунка и дорожки */
+}
+
+body {
+    font-family: 'Segoe UI', Roboto, sans-serif;
+    background-color: var(--bg);
+    color: var(--text-main);
+    line-height: 1.5;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    transition: 0.2s;
+}

@@ -1,0 +1,86 @@
+{
+  "en-US": {
+    "catalog": "Catalog",
+    "about": "About",
+    "contacts": "Contacts",
+    "total": "In Shelter",
+    "visits": "Care Packages"
+  },
+  "zh-CN": {
+    "catalog": "目录",
+    "about": "关于我们",
+    "contacts": "联系方式",
+    "total": "收容中",
+    "visits": "慰问包"
+  },
+  "fr-FR": {
+    "catalog": "Catalogue",
+    "about": "À propos",
+    "contacts": "Contacts",
+    "total": "Au refuge",
+    "visits": "Colis de soin"
+  },
+  "de-DE": {
+    "catalog": "Katalog",
+    "about": "Über uns",
+    "contacts": "Kontakte",
+    "total": "Im Tierheim",
+    "visits": "Care-Pakete"
+  },
+  "it-IT": {
+    "catalog": "Catalogo",
+    "about": "Chi siamo",
+    "contacts": "Contatti",
+    "total": "Al rifugio",
+    "visits": "Pacchi dono"
+  },
+  "ja-JP": {
+    "catalog": "カタログ",
+    "about": "シェルターについて",
+    "contacts": "連絡先",
+    "total": "保護中",
+    "visits": "差し入れ"
+  },
+  "pt-BR": {
+    "catalog": "Catálogo",
+    "about": "Sobre",
+    "contacts": "Contatos",
+    "total": "No abrigo",
+    "visits": "Encomendas"
+  },
+  "es-ES": {
+    "catalog": "Catálogo",
+    "about": "Sobre nosotros",
+    "contacts": "Contactos",
+    "total": "En refugio",
+    "visits": "Paquetes de cuidado"
+  },
+  "ko-KR": {
+    "catalog": "카탈로그",
+    "about": "정보",
+    "contacts": "연락처",
+    "total": "보호 중",
+    "visits": "위문품"
+  },
+  "ru-RU": {
+    "catalog": "Каталог",
+    "about": "О приюте",
+    "contacts": "Контакты",
+    "total": "В приюте",
+    "visits": "Передачки"
+  },
+  "hi-IN": {
+    "catalog": "सूची",
+    "about": "बारे में",
+    "contacts": "संपर्क",
+    "total": "आश्रय में",
+    "visits": "देखभाल पैकेज"
+  },
+  "tr-TR": {
+    "catalog": "Katalog",
+    "about": "Hakkımızda",
+    "contacts": "İletişim",
+    "total": "Barınakta",
+    "visits": "Ziyaretçi Paketi"
+  }
+}

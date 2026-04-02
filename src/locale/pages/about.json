@@ -1,0 +1,482 @@
+{
+  "en-US": {
+    "title": "Who Are We?",
+    "description-1": "We are volunteers who can't stand seeing AI algorithms cast out thousands of talented musicians just because they didn't hit a 15-second trend.",
+    "description-2": "In our shelter, artists get clean clouds, regular listening, and hope to find their content maker. We don't take commissions—only likes.",
+    "photo": {
+      "sector-1": "Rock Sector",
+      "sector-2": "Isolation Unit",
+      "sector-3": "Electro Nursery",
+      "sector-4": "Jazz Courtyard",
+      "location-1": "Rack #4 / Row B",
+      "mode": "Silence mode active",
+      "alt": "Our kennels (Server Rack #4, 40% humidity)"
+    },
+    "partner": {
+      "label": "OUR PARTNER",
+      "title": "Where do they live in the wild?",
+      "description": "When our proteges get stronger, they move to <strong>bilbo</strong>. It's not just Telegram/MAX streaming; it's an ecosystem where music is filtered by real people, not soulless scripts.",
+      "achieve-1": "No Bots",
+      "achieve-1-1": "Only honest ears and hearts.",
+      "achieve-2": "Inside Telegram/MAX",
+      "achieve-2-2": "Music where you chat.",
+      "achieve-3": "Human Factor",
+      "achieve-3-3": "Here, an artist is a person, not a database row.",
+      "visite": "Visit bilbomusic.com"
+    },
+    "form": {
+      "title": "Drop Off an Artist",
+      "description-1": "Found a forgotten track on an old USB? Put it in the box, and we'll find them a family.",
+      "name": {
+        "title": "What's the poor fellow's name?",
+        "placeholder": "e.g., MC Beatmaker"
+      },
+      "description": {
+        "title": "What's the trouble?",
+        "placeholder": "e.g., Out of tune but really wants to be on TikTok"
+      },
+      "submit": "Leave at the doorstep"
+    },
+    "address": "Address: 127.0.0.1, Downloads folder, Pizza box."
+  },
+  "fr-FR": {
+    "title": "Qui sommes-nous ?",
+    "description-1": "Nous sommes des bénévoles qui refusent de voir les algorithmes d'IA jeter à la rue des milliers de musiciens talentueux simplement parce qu'ils n'ont pas suivi une tendance de 15 secondes.",
+    "description-2": "Dans notre refuge, les artistes reçoivent des nuages propres, une écoute régulière et l'espoir de trouver leur créateur de contenu. Pas de commission, seulement des likes.",
+    "photo": {
+      "sector-1": "Secteur Rock",
+      "sector-2": "Isoloir",
+      "sector-3": "Crèche Électro",
+      "sector-4": "Cour Jazz",
+      "location-1": "Baie n°4 / Rangée B",
+      "mode": "Silence respecté",
+      "alt": "Nos enclos (Baie serveur n°4, 40% d'humidité)"
+    },
+    "partner": {
+      "label": "NOTRE PARTENAIRE",
+      "title": "Où vivent-ils en liberté ?",
+      "description": "Une fois requinqués, nos protégés rejoignent <strong>bilbo</strong>. Plus qu'un streaming Telegram/MAX, c'est un écosystème où la musique est filtrée par des humains, pas des scripts sans âme.",
+      "achieve-1": "Zéro Bots",
+      "achieve-1-1": "Seulement des oreilles et des cœurs honnêtes.",
+      "achieve-2": "Directement sur Telegram/MAX",
+      "achieve-2-2": "La musique là où vous discutez.",
+      "achieve-3": "Facteur Humain",
+      "achieve-3-3": "Ici, l'artiste est une personne, pas une ligne de code.",
+      "visite": "Visiter bilbomusic.com"
+    },
+    "form": {
+      "title": "Déposer un artiste",
+      "description-1": "Un vieux morceau sur une clé USB ? Mettez-le dans la boîte, on lui trouvera une famille.",
+      "name": {
+        "title": "Comment s'appelle le pauvre ?",
+        "placeholder": "Ex : MC Beatmaker"
+      },
+      "description": {
+        "title": "Quel est le souci ?",
+        "placeholder": "Ex : Chante faux mais veut percer sur TikTok"
+      },
+      "submit": "Laisser sur le perron"
+    },
+    "address": "Adresse : 127.0.0.1, Dossier Téléchargements, Boîte à pizza."
+  },
+  "de-DE": {
+    "title": "Wer sind wir?",
+    "description-1": "Wir sind Freiwillige, die nicht zusehen können, wie KI-Algorithmen talentierte Musiker vor die Tür setzen, nur weil sie keinem 15-Sekunden-Trend entsprechen.",
+    "description-2": "In unserem Tierheim erhalten Künstler saubere Clouds, regelmäßiges Zuhören und die Hoffnung, ihren Content-Creator zu finden. Keine Provision, nur Likes.",
+    "photo": {
+      "sector-1": "Rock-Sektor",
+      "sector-2": "Isolierstation",
+      "sector-3": "Elektro-Krippe",
+      "sector-4": "Jazz-Hof",
+      "location-1": "Rack Nr. 4 / Reihe B",
+      "mode": "Ruhemodus aktiv",
+      "alt": "Unsere Zwinger (Server-Rack Nr. 4, 40% Luftfeuchtigkeit)"
+    },
+    "partner": {
+      "label": "UNSER PARTNER",
+      "title": "Wo leben sie in Freiheit?",
+      "description": "Wenn unsere Schützlinge stark genug sind, kommen sie zu <strong>bilbo</strong>. Kein gewöhnliches Telegram/MAX-Streaming, sondern ein Ökosystem, in dem Menschen Musik filtern, keine seelenlosen Skripte.",
+      "achieve-1": "Keine Bots",
+      "achieve-1-1": "Nur ehrliche Ohren und Herzen.",
+      "achieve-2": "Direkt in Telegram/MAX",
+      "achieve-2-2": "Musik dort, wo du chattest.",
+      "achieve-3": "Menschlicher Faktor",
+      "achieve-3-3": "Hier ist der Künstler eine Person, keine Datenbankzeile.",
+      "visite": "bilbomusic.com besuchen"
+    },
+    "form": {
+      "title": "Einen Künstler abgeben",
+      "description-1": "Vergessener Track auf einem alten USB-Stick? Leg ihn in die Box, wir finden eine Familie.",
+      "name": {
+        "title": "Wie heißt der arme Kerl?",
+        "placeholder": "Z.B. MC Beatmaker"
+      },
+      "description": {
+        "title": "Wo liegt das Problem?",
+        "placeholder": "Z.B. Trifft keinen Ton, will aber unbedingt zu TikTok"
+      },
+      "submit": "Vor der Tür ablegen"
+    },
+    "address": "Adresse: 127.0.0.1, Downloads-Ordner, Pizzakarton."
+  },
+  "it-IT": {
+    "title": "Chi siamo?",
+    "description-1": "Siamo volontari che non sopportano di vedere gli algoritmi IA gettare al freddo migliaia di musicisti di talento solo perché non hanno seguito un trend di 15 secondi.",
+    "description-2": "Nel nostro rifugio, gli artisti ricevono cloud puliti, ascolto regolare e la speranza di trovare il proprio content creator. Non prendiamo commissioni, solo like.",
+    "photo": {
+      "sector-1": "Settore Rock",
+      "sector-2": "Isolamento",
+      "sector-3": "Nursery Electro",
+      "sector-4": "Cortile Jazz",
+      "location-1": "Rack n. 4 / Fila B",
+      "mode": "Modalità silenzio attiva",
+      "alt": "I nostri canili (Rack server n. 4, umidità 40%)"
+    },
+    "partner": {
+      "label": "IL NOSTRO PARTNER",
+      "title": "Dove vivono in libertà?",
+      "description": "Quando i nostri protetti si riprendono, vanno su <strong>bilbo</strong>. Non è un semplice streaming Telegram/MAX, è un ecosistema dove la musica è filtrata da persone vere, non da script senza anima.",
+      "achieve-1": "Zero Bot",
+      "achieve-1-1": "Solo orecchie e cuori onesti.",
+      "achieve-2": "Direttamente su Telegram/MAX",
+      "achieve-2-2": "La musica dove chatti.",
+      "achieve-3": "Fattore Umano",
+      "achieve-3-3": "Qui l'artista è una persona, non una riga di database.",
+      "visite": "Visita bilbomusic.com"
+    },
+    "form": {
+      "title": "Abbandona un artista",
+      "description-1": "Trovata una traccia dimenticata su una vecchia chiavetta? Mettila nella scatola, gli troveremo una famiglia.",
+      "name": {
+        "title": "Come si chiama il poverino?",
+        "placeholder": "Es: MC Beatmaker"
+      },
+      "description": {
+        "title": "Qual è il problema?",
+        "placeholder": "Es: Non becca una nota ma vuole andare su TikTok"
+      },
+      "submit": "Lascia sulla soglia"
+    },
+    "address": "Indirizzo: 127.0.0.1, Cartella Downloads, Scatola della pizza."
+  },
+  "es-ES": {
+    "title": "¿Quiénes somos?",
+    "description-1": "Somos voluntarios que no soportan ver cómo los algoritmos de IA echan a la calle a miles de músicos con talento solo porque no encajaron en una tendencia de 15 segundos.",
+    "description-2": "En nuestro refugio, los artistas reciben nubes limpias, escucha regular y la esperanza de encontrar a su creador de contenido. No cobramos comisión, solo likes.",
+    "photo": {
+      "sector-1": "Sector Rock",
+      "sector-2": "Aislamiento",
+      "sector-3": "Guardería Electro",
+      "sector-4": "Patio de Jazz",
+      "location-1": "Rack n.º 4 / Fila B",
+      "mode": "Modo silencio activo",
+      "alt": "Nuestras jaulas (Rack de servidores n.º 4, humedad 40 %)"
+    },
+    "partner": {
+      "label": "NUESTRO SOCIO",
+      "title": "¿Dónde viven en libertad?",
+      "description": "Cuando nuestros protegidos se fortalecen, llegan a <strong>bilbo</strong>. No es solo streaming en Telegram/MAX, es un ecosistema donde la música la filtran personas, no scripts sin alma.",
+      "achieve-1": "Sin Bots",
+      "achieve-1-1": "Solo oídos y corazones honestos.",
+      "achieve-2": "Directo en Telegram/MAX",
+      "achieve-2-2": "La música donde chateas.",
+      "achieve-3": "Factor Humano",
+      "achieve-3-3": "Aquí el artista es una persona, no una línea de base de datos.",
+      "visite": "Visitar bilbomusic.com"
+    },
+    "form": {
+      "title": "Abandonar a un artista",
+      "description-1": "¿Encontraste un tema olvidado en un viejo USB? Ponlo en la caja y le buscaremos una familia.",
+      "name": {
+        "title": "¿Cómo se llama el pobrecito?",
+        "placeholder": "Ej: MC Beatmaker"
+      },
+      "description": {
+        "title": "¿Cuál es el problema?",
+        "placeholder": "Ej: Desafina pero tiene muchas ganas de salir en TikTok"
+      },
+      "submit": "Dejar en la puerta"
+    },
+    "address": "Dirección: 127.0.0.1, Carpeta Downloads, Caja de pizza."
+  },
+  "pt-BR": {
+    "title": "Quem somos?",
+    "description-1": "Somos voluntários que não aguentam ver algoritmos de IA jogando no lixo milhares de músicos talentosos só porque não entraram em uma tendência de 15 segundos.",
+    "description-2": "No nosso abrigo, os artistas recebem nuvens limpas, audição regular e a esperança de encontrar seu criador de conteúdo. Não cobramos comissão, apenas curtidas.",
+    "photo": {
+      "sector-1": "Setor Rock",
+      "sector-2": "Isolamento",
+      "sector-3": "Creche Electro",
+      "sector-4": "Pátio Jazz",
+      "location-1": "Rack nº 4 / Fila B",
+      "mode": "Modo silêncio respeitado",
+      "alt": "Nossas baias (Rack de servidor nº 4, umidade 40%)"
+    },
+    "partner": {
+      "label": "NOSSO PARCEIRO",
+      "title": "Onde eles vivem em liberdade?",
+      "description": "Quando nossos protegidos se recuperam, eles vão para o <strong>bilbo</strong>. Não é apenas streaming no Telegram/MAX, é um ecossistema onde pessoas reais filtram a música, não scripts sem alma.",
+      "achieve-1": "Sem Bots",
+      "achieve-1-1": "Apenas ouvidos e corações honestos.",
+      "achieve-2": "Direto no Telegram/MAX",
+      "achieve-2-2": "Música onde você conversa.",
+      "achieve-3": "Fator Humano",
+      "achieve-3-3": "Aqui o artista é uma pessoa, não uma linha num banco de dados.",
+      "visite": "Visitar bilbomusic.com"
+    },
+    "form": {
+      "title": "Deixar um artista",
+      "description-1": "Achou uma música esquecida num pendrive antigo? Coloque na caixa e buscaremos uma família.",
+      "name": {
+        "title": "Qual o nome do coitado?",
+        "placeholder": "Ex: MC Beatmaker"
+      },
+      "description": {
+        "title": "Qual o problema?",
+        "placeholder": "Ex: Desafina, mas quer muito ir para o TikTok"
+      },
+      "submit": "Deixar na soleira"
+    },
+    "address": "Endereço: 127.0.0.1, Pasta Downloads, Caixa de pizza."
+  },
+  "zh-CN": {
+    "title": "我们是谁？",
+    "description-1": "我们是一群志愿者，无法眼睁睁看着AI算法仅仅因为某些天才音乐人没有赶上15秒的热点趋势，就把他们抛弃在荒野。",
+    "description-2": "在我们的收容所，艺人们能获得干净的云端存储、定期的收听以及寻找内容创作者的希望。我们不收佣金，只要点赞。",
+    "photo": {
+      "sector-1": "摇滚区",
+      "sector-2": "隔离室",
+      "sector-3": "电子育婴室",
+      "sector-4": "爵士小院",
+      "location-1": "4号机柜 / B排",
+      "mode": "保持安静模式",
+      "alt": "我们的围栏（4号服务器机柜，湿度40%）"
+    },
+    "partner": {
+      "label": "我们的合作伙伴",
+      "title": "他们在哪里自由生活？",
+      "description": "当我们的收容对象变得强大后，他们会进入 <strong>bilbo</strong>。这不仅是 Telegram/MAX 上的流媒体，更是一个由真人而非冷冰冰的脚本来筛选音乐的生态系统。",
+      "achieve-1": "拒绝机器人",
+      "achieve-1-1": "只有诚实的耳朵和心灵。",
+      "achieve-2": "直达 Telegram/MAX",
+      "achieve-2-2": "在聊天的地方听音乐。",
+      "achieve-3": "人文因素",
+      "achieve-3-3": "在这里，艺人是鲜活的个人，而非数据库里的一行代码。",
+      "visite": "访问 bilbomusic.com"
+    },
+    "form": {
+      "title": "投递艺人",
+      "description-1": "在旧U盘里发现了被遗忘的音轨？把它放进盒子里，我们会为它找个家。",
+      "name": {
+        "title": "这个小可怜叫什么？",
+        "placeholder": "例如：MC Beatmaker"
+      },
+      "description": {
+        "title": "有什么问题？",
+        "placeholder": "例如：唱歌跑调，但非常想上 TikTok"
+      },
+      "submit": "留在门口"
+    },
+    "address": "地址：127.0.0.1，下载文件夹，披萨盒。"
+  },
+  "ja-JP": {
+    "title": "私たちは誰？",
+    "description-1": "私たちは、わずか15秒のトレンドに乗れなかったというだけで、AIアルゴリズムによって切り捨てられた才能あるミュージシャンたちを見過ごせないボランティアです。",
+    "description-2": "当シェルターでは、アーティストにクリーンなクラウド環境と定期的なリスニング、そしてコンテンツメーカーに出会う希望を提供します。手数料は不要、必要なのは「いいね」だけです。",
+    "photo": {
+      "sector-1": "ロック・セクター",
+      "sector-2": "隔離室",
+      "sector-3": "エレクトロ保育園",
+      "sector-4": "ジャズの庭",
+      "location-1": "ラックNo.4 / B列",
+      "mode": "静音モード遵守",
+      "alt": "私たちの犬舎（サーバーラックNo.4、湿度40%）"
+    },
+    "partner": {
+      "label": "パートナー紹介",
+      "title": "彼らは野生でどこに住んでいる？",
+      "description": "保護されたアーティストたちが元気になると、<strong>bilbo</strong> へ旅立ちます。これは単なる Telegram/MAX ストリーミングではなく、魂のないスクリプトではなく、人間が音楽をフィルタリングするエコシステムです。",
+      "achieve-1": "ボット排除",
+      "achieve-1-1": "誠実な耳と心だけ。",
+      "achieve-2": "Telegram/MAX直結",
+      "achieve-2-2": "チャットをする場所で音楽を。",
+      "achieve-3": "人間味",
+      "achieve-3-3": "ここでは、アーティストはデータベースの一行ではなく、一人の人間です。",
+      "visite": "bilbomusic.com を訪ねる"
+    },
+    "form": {
+      "title": "アーティストを預ける",
+      "description-1": "古いUSBに忘れられたトラックを見つけましたか？箱に入れてください。私たちが家族を見つけます。",
+      "name": {
+        "title": "その子の名前は？",
+        "placeholder": "例: MC Beatmaker"
+      },
+      "description": {
+        "title": "悩みごとは？",
+        "placeholder": "例: 音程は外れるけど、TikTokでバズりたい"
+      },
+      "submit": "玄関先に置いていく"
+    },
+    "address": "住所: 127.0.0.1, Downloadsフォルダ, ピザの箱の中。"
+  },
+  "ko-KR": {
+    "title": "우리는 누구인가요?",
+    "description-1": "우리는 고작 15초짜리 트렌드에 들지 못했다는 이유로 AI 알고리즘이 내버린 수천 명의 재능 있는 음악가들을 차마 두고 볼 수 없었던 자원봉사자들입니다.",
+    "description-2": "우리 보호소에서 아티스트들은 깨끗한 클라우드와 정기적인 스트리밍, 그리고 자신만의 콘텐츠 제작자를 만날 희망을 얻습니다. 수수료는 받지 않습니다. 오직 '좋아요'만 받습니다.",
+    "photo": {
+      "sector-1": "락 섹터",
+      "sector-2": "격리실",
+      "sector-3": "일렉트로 어린이집",
+      "sector-4": "재즈 마당",
+      "location-1": "4번 랙 / B열",
+      "mode": "정숙 모드 준수 중",
+      "alt": "우리 보호실 (서버 랙 4번, 습도 40%)"
+    },
+    "partner": {
+      "label": "공식 파트너",
+      "title": "그들은 야생의 어디에서 사나요?",
+      "description": "보호 중인 아티스트들이 기운을 차리면 <strong>bilbo</strong>로 이동합니다. 이것은 단순한 Telegram/MAX 스트리밍이 아니라, 영혼 없는 스크립트가 아닌 실제 사람들이 음악을 선별하는 생태계입니다.",
+      "achieve-1": "봇 없음",
+      "achieve-1-1": "진실된 귀와 마음만 존재합니다.",
+      "achieve-2": "Telegram/MAX에서 바로",
+      "achieve-2-2": "대화가 오가는 곳에서 음악을 즐기세요.",
+      "achieve-3": "인간적인 요소",
+      "achieve-3-3": "여기서 아티스트는 데이터베이스의 한 줄이 아닌 인격체입니다.",
+      "visite": "bilbomusic.com 방문하기"
+    },
+    "form": {
+      "title": "아티스트 맡기기",
+      "description-1": "오래된 USB에서 잊혀진 트랙을 찾으셨나요? 상자에 담아주세요. 저희가 가족을 찾아줄게요.",
+      "name": {
+        "title": "불쌍한 아티스트의 이름은?",
+        "placeholder": "예: MC 비트메이커"
+      },
+      "description": {
+        "title": "어떤 문제가 있나요?",
+        "placeholder": "예: 음정은 불안하지만 틱톡에 꼭 가고 싶어 함"
+      },
+      "submit": "문 앞에 두고 가기"
+    },
+    "address": "주소: 127.0.0.1, 다운로드 폴더, 피자 박스 안."
+  },
+  "hi-IN": {
+    "title": "हम कौन हैं?",
+    "description-1": "हम वे स्वयंसेवक हैं जो AI एल्गोरिदम द्वारा हजारों प्रतिभाशाली संगीतकारों को सिर्फ इसलिए बाहर फेंके जाते हुए नहीं देख सकते क्योंकि वे 15-सेकंड के ट्रेंड में फिट नहीं हुए।",
+    "description-2": "हमारे आश्रय में, कलाकारों को साफ क्लाउड, नियमित रूप से सुना जाना और अपने कंटेंट निर्माता को खोजने की उम्मीद मिलती है। हम कोई कमीशन नहीं लेते, हम केवल लाइक्स लेते हैं।",
+    "photo": {
+      "sector-1": "रॉक सेक्टर",
+      "sector-2": "आइसोलेशन",
+      "sector-3": "इलेक्ट्रो नर्सरी",
+      "sector-4": "जैज़ आंगन",
+      "location-1": "रैक नंबर 4 / पंक्ति बी",
+      "mode": "मौन मोड का पालन किया जा रहा है",
+      "alt": "हमारे बाड़े (सर्वर रैक नंबर 4, आर्द्रता 40%)"
+    },
+    "partner": {
+      "label": "हमारा पार्टनर",
+      "title": "वे खुले में कहां रहते हैं?",
+      "description": "जब हमारे कलाकार मजबूत हो जाते हैं, तो वे <strong>bilbo</strong> में जाते हैं। यह केवल Telegram/MAX स्ट्रीमिंग नहीं है, यह एक ऐसा इकोसिस्टम है जहां संगीत को असली लोग फिल्टर करते हैं, बेजान स्क्रिप्ट नहीं।",
+      "achieve-1": "कोई बॉट नहीं",
+      "achieve-1-1": "केवल ईमानदार कान और दिल।",
+      "achieve-2": "सीधे Telegram/MAX में",
+      "achieve-2-2": "संगीत वहीं जहां आप चैट करते हैं।",
+      "achieve-3": "मानवीय कारक",
+      "achieve-3-3": "यहाँ कलाकार एक व्यक्ति है, डेटाबेस की एक लाइन नहीं।",
+      "visite": "bilbomusic.com पर जाएं"
+    },
+    "form": {
+      "title": "कलाकार को छोड़ें",
+      "description-1": "पुराने पेनड्राइव पर कोई भूला हुआ ट्रैक मिला? इसे बॉक्स में रखें, और हम उसे एक परिवार ढूंढ देंगे।",
+      "name": {
+        "title": "बेचारे का नाम क्या है?",
+        "placeholder": "जैसे: MC बीटमेकर"
+      },
+      "description": {
+        "title": "समस्या क्या है?",
+        "placeholder": "जैसे: सुर में नहीं है, लेकिन टिकटॉक पर जाना चाहता है"
+      },
+      "submit": "चौखट पर छोड़ दें"
+    },
+    "address": "पता: 127.0.0.1, डाउनलोड फ़ोल्डर, पिज़्ज़ा बॉक्स।"
+  },
+  "tr-TR": {
+    "title": "Biz Kimiz?",
+    "description-1": "Yapay zeka algoritmalarının, sadece 15 saniyelik bir trende uymadıkları için binlerce yetenekli müzisyeni kapı dışarı etmesine dayanamayan gönüllüleriz.",
+    "description-2": "Barınağımızda sanatçılar temiz bulut depolama, düzenli dinlenme ve kendi içerik üreticilerini bulma umudu kazanırlar. Komisyon almıyoruz, sadece beğeni topluyoruz.",
+    "photo": {
+      "sector-1": "Rock Sektörü",
+      "sector-2": "Tecrit",
+      "sector-3": "Elektro Kreş",
+      "sector-4": "Caz Bahçesi",
+      "location-1": "Raf No: 4 / Sıra B",
+      "mode": "Sessizlik moduna uyuluyor",
+      "alt": "Bölmelerimiz (Sunucu Rafı No: 4, nem %40)"
+    },
+    "partner": {
+      "label": "PARTNERİMİZ",
+      "title": "Doğada nerede yaşıyorlar?",
+      "description": "Himayemiz altındakiler güçlendiklerinde <strong>bilbo</strong>'ya geçerler. Bu sadece bir Telegram/MAX akışı değil; müziğin ruhsuz scriptler yerine gerçek insanlar tarafından filtrelendiği bir ekosistemdir.",
+      "achieve-1": "Botlara Hayır",
+      "achieve-1-1": "Sadece dürüst kulaklar ve kalpler.",
+      "achieve-2": "Doğrudan Telegram/MAX'te",
+      "achieve-2-2": "Müzik, sohbet ettiğiniz her yerde.",
+      "achieve-3": "İnsan Faktörü",
+      "achieve-3-3": "Burada sanatçı bir veritabanı satırı değil, bir bireydir.",
+      "visite": "bilbomusic.com'u ziyaret et"
+    },
+    "form": {
+      "title": "Sanatçı Bırak",
+      "description-1": "Eski bir USB'de unutulmuş bir parça mı buldunuz? Onu kutuya koyun, ona bir aile bulalım.",
+      "name": {
+        "title": "Garibanın adı ne?",
+        "placeholder": "Örn: MC Beatmaker"
+      },
+      "description": {
+        "title": "Sorun nedir?",
+        "placeholder": "Örn: Detone oluyor ama TikTok'a girmeyi çok istiyor"
+      },
+      "submit": "Kapıya bırak"
+    },
+    "address": "Adres: 127.0.0.1, İndirilenler klasörü, Pizza kutusu."
+  },
+  "ru-RU": {
+    "title": "Кто мы такие?",
+    "description-1": "Мы — волонтеры, которые не могут смотреть, как ИИ-алгоритмы выбрасывают на мороз тысячи талантливых музыкантов просто за то, что они не попали в 15-секундный тренд.",
+    "description-2": "В нашем приюте артисты получают чистые облака, регулярное прослушивание и надежду найти своего контент-мейкера. Мы не берем комиссию, мы берем только лайки.",
+    "photo": {
+      "sector-1": "Рок-сектор",
+      "sector-2": "Изолятор",
+      "sector-3": "Электро-ясли",
+      "sector-4": "Джаз-дворик",
+      "location-1": "Стойка №4 / Ряд «Б»",
+      "mode": "Режим тишины соблюдается",
+      "alt": "Наши вольеры (Серверная стойка №4, влажность 40%)"
+    },
+    "partner": {
+      "label": "НАШ ПАРТНЕР",
+      "title": "Где они живут на воле?",
+      "description": "Когда наши подопечные окрепнут, они попадают в <strong>bilbo</strong>. Это не просто стриминг в Telegram/MAX, это целая экосистема, где музыку фильтруют живые люди, а не бездушные скрипты.",
+      "achieve-1": "Никаких ботов",
+      "achieve-1-1": "Только честные уши и сердца.",
+      "achieve-2": "Прямо в Telegram/MAX",
+      "achieve-2-2": "Музыка там, где вы общаетесь.",
+      "achieve-3": "Человеческий фактор",
+      "achieve-3-3": "Здесь артист — это личность, а не строчка в базе данных.",
+      "visite": "Посетить bilbomusic.com"
+    },
+    "form": {
+      "title": "Подкинуть артиста",
+      "description-1": "Нашли забытый трек на старой флешке? Положите его в коробку, и мы найдем ему семью.",
+      "name": {
+        "title": "Как зовут бедолагу?",
+        "placeholder": "Напр: MC Битмейкер"
+      },
+      "description": {
+        "title": "В чем проблема?",
+        "placeholder": "Напр: Не попадает в ноты, но очень хочет в ТикТок"
+      },
+      "submit": "Оставить у порога"
+    },
+    "address": "Адрес: 127.0.0.1, Папка Downloads, Коробка из-под пиццы."
+  }
+}
