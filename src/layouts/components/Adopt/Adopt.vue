@@ -218,7 +218,7 @@
         ctx.font = '16px "Segoe UI"';
         ctx.fillStyle = '#64748b';
         ctx.fillText(`ID: ${artistData.id}`, 280, 260);
-        ctx.fillText(`t('adopt.export.status'): ${artistData.status}`, 280, 285);
+        ctx.fillText(`${t('adopt.export.status')}: ${artistData.status}`, 280, 285);
         // ctx.fillText(`Рацион: ${artistData.diet.substring(0, 45)}...`, 280, 310);
 
         // 4. Текст обязательства

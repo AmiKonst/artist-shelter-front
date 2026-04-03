@@ -8,7 +8,7 @@ const useDonatsApi = defineStore('donats-api', {
                 from: 'Крипто-Барон',
                 description: '«Оплатил ему золотые зубы и безлимитный автотюн на месяц. Пусть сияет!»',
                 artist: {
-                    name: 'МС Автотюн',
+                    name: 'Tokee',
                     code: ''
                 },
                 rank: 3,
@@ -17,7 +17,7 @@ const useDonatsApi = defineStore('donats-api', {
                 from: 'Добрый Слушатель',
                 description: '«Закинул на свежие трости для саксофона. Не болей там в облаке.»',
                 artist: {
-                    name: 'Саксофончик',
+                    name: 'Ilya Truhanov',
                     code: ''
                 },
                 rank: 2,

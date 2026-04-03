@@ -1,7 +1,19 @@
 <template>
    <div class="profile-left">
        <div class="artist-photo">
-            <img :src="artist.photo" :alt="artist.name" />
+            <!-- Видео-аватарка для профиля -->
+            <video 
+                v-if="artist.video" 
+                :src="artist.video" 
+                autoplay 
+                loop 
+                muted 
+                playsinline
+                class="artist-video"
+            ></video>
+            
+            <!-- Обычное фото, если видео нет -->
+            <img v-else :src="artist.photo" :alt="artist.name" />
        </div>
        <div class="care-notes">
            <h3>🍲 {{ t('pages.artist.diet') }}</h3>
@@ -79,18 +91,22 @@
         }
     }
 
-    .artist-photo {
-        width: 100%; aspect-ratio: 1;
+     .artist-photo {
+        width: 100%; 
+        aspect-ratio: 1;
         background: #e2f3f1;
         border-radius: var(--radius);
-        display: flex; align-items: center; justify-content: center;
-        font-size: 100px;
+        display: flex; 
+        align-items: center; 
+        justify-content: center;
         border: 4px solid var(--secondary);
         overflow: hidden;
-        img {
+
+        img, .artist-video {
             display: block;
             width: 100%;
-            aspect-ratio: 1;
+            height: 100%;
+            object-fit: cover; // Гарантируем заполнение квадрата
         }
     }
 

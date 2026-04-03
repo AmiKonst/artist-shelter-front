@@ -1,7 +1,19 @@
 <template>
    <div class="card" :class="[`artist-card-${item.id}`]" v-if="item">
         <div class="card-img">
-            <img :src="item.photo" :alt="item.name" />
+            <!-- Если есть видео, выводим его -->
+            <video 
+                v-if="item.video" 
+                :src="item.video" 
+                autoplay 
+                loop 
+                muted 
+                playsinline
+                class="artist-video"
+            ></video>
+            
+            <!-- Иначе выводим обычное фото -->
+            <img v-else :src="item.photo" :alt="item.name" />
         </div>
         <div class="card-name">{{ item.name }}</div>
         <div class="card-desc">{{ item.description }}</div>
@@ -61,13 +73,15 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        font-size: 50px;
         overflow: hidden;
+        position: relative;
 
-        img {
+        img,
+        .artist-video {
             display: block;
-            aspect-ratio: 1;
             width: 100%;
+            height: 100%;
+            object-fit: cover;
         }
     }
 
