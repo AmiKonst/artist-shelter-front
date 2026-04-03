@@ -188,6 +188,7 @@
         max-height: 300px;
         overflow-y: auto;
         border: 1px solid #e2e8f0;
+        z-index: 3;
     }
 
     .lang-item {
