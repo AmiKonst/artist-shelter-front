@@ -60,7 +60,7 @@
     );
 
     const changeLang = (code) => {
-        locale.setLocale(code);
+        locale.updateLocale(code);
         isLangOpen.value = false;
     };
 
