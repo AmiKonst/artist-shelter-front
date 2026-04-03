@@ -58,5 +58,20 @@ const router = createRouter({
     }
 });
 
+router.beforeEach((to, from, next) => {
+    const savedPage = localStorage.getItem('page');
+
+    // Если мы зашли на корень '/' и у нас есть сохраненная страница
+    if (to.path === '/' && savedPage) {
+        // Очищаем, чтобы не зациклиться при последующих переходах
+        localStorage.removeItem('page');
+        
+        // Переходим по сохраненному пути
+        next(savedPage);
+    } else {
+        next();
+    }
+});
+
 
 export default router;
