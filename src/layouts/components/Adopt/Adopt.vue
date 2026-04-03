@@ -273,7 +273,7 @@
         display:flex; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.7); z-index:1000; backdrop-filter: blur(5px); align-items:center; justify-content:center;
     }
     #modalOverlay > div {
-            max-height: 96vh;
+            max-height: 80vh;
     overflow: auto;
         background:#fff9db; width:90%; max-width:500px; padding:30px; border-radius:20px; border:4px dashed #fd7e14; position:relative; box-shadow: 0 20px 40px rgba(0,0,0,0.3); transform: scale(0.5); transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 

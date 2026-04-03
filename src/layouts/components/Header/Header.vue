@@ -87,8 +87,8 @@
         background: var(--card-bg);
         padding: 15px 0;
         border-bottom: 4px solid var(--primary);
-        position: sticky;
-        top: 0;
+        // position: sticky;
+        // top: 0;
         z-index: 100;
         box-shadow: var(--shadow);
     }
@@ -252,15 +252,26 @@
             justify-content: start;
             align-items: start;
             nav {
-                flex-direction: column;
+                flex-direction: row;
                 gap: 4px;
                 font-size: 12px;
+                flex-wrap: wrap;
+                margin-left: -4px;
+                a {
+                    padding: 0 4px;
+                }
                 a.router-link-active {
-                    padding-left: 8px;
-                    border-left: 3px solid var(--primary);
+                    // padding-left: 0;
+                    // border-left: 3px solid var(--primary);
                     &::after { display: none; } // Убираем нижнюю линию
                 }
             }
+        }
+
+        .header-right {
+            flex-direction: column;
+            justify-content: end;
+            align-items: end;
         }
     }
 
