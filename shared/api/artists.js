@@ -60,25 +60,25 @@ const useArtistsApi = defineStore('artists-api', {
                     vk: 'https://vk.com/i_am_tokee',
                 }
             },
-            {
-                id: 4,
-                photo: '/img/artists/truhanov.jpg',
-                video: '/img/video-artists/truhanov.mp4',
-                code: 'truhanov',
-                name: 'Ilya Truhanov',
-                media: '',
-                links: {
-                    applemusic: 'https://music.apple.com/cy/artist/ilya-truhanov/286700468',
-                    yandexmusic: 'https://music.yandex.ru/artist/558858',
-                    // spotify: '',
-                    youtube: 'https://music.youtube.com/channel/UCIU1FrSjI6Iz9zkeWmnHutQ',
-                    // instagram: '',
-                    // telegram: '',
-                    // threads: '',
-                    // soundcloud: '',
-                    vk: 'https://vk.com/artist/ilyatruhanov',
-                }
-            }
+            // {
+            //     id: 4,
+            //     photo: '/img/artists/truhanov.jpg',
+            //     video: '/img/video-artists/truhanov.mp4',
+            //     code: 'truhanov',
+            //     name: 'Ilya Truhanov',
+            //     media: '',
+            //     links: {
+            //         applemusic: 'https://music.apple.com/cy/artist/ilya-truhanov/286700468',
+            //         yandexmusic: 'https://music.yandex.ru/artist/558858',
+            //         // spotify: '',
+            //         youtube: 'https://music.youtube.com/channel/UCIU1FrSjI6Iz9zkeWmnHutQ',
+            //         // instagram: '',
+            //         // telegram: '',
+            //         // threads: '',
+            //         // soundcloud: '',
+            //         vk: 'https://vk.com/artist/ilyatruhanov',
+            //     }
+            // }
         ]
     }),
     actions: {
