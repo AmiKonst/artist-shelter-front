@@ -28,7 +28,7 @@ const useArtistsApi = defineStore('artists-api', {
                 video: '/img/video-artists/tzelenski.mp4',
                 code: 'tzelenski',
                 name: 'Timofey Zelenski',
-                media: '',
+                media: 'https://disk.yandex.ru/d/d53qvLb_KD88yg',
                 links: {
                     applemusic: 'https://music.apple.com/us/artist/timofey-zelenski/1538858407',
                     yandexmusic: 'https://music.yandex.ru/artist/11251668',
@@ -66,7 +66,7 @@ const useArtistsApi = defineStore('artists-api', {
                 video: '/img/video-artists/truhanov.mp4',
                 code: 'truhanov',
                 name: 'Ilya Truhanov',
-                media: 'https://drive.google.com/file/d/1Fp84QQ3l4GEtTNk4-VgY1FMrarwxsXgB/view?usp=sharing',
+                media: '',
                 links: {
                     applemusic: 'https://music.apple.com/cy/artist/ilya-truhanov/286700468',
                     yandexmusic: 'https://music.yandex.ru/artist/558858',

@@ -150,6 +150,10 @@
     onMounted(() => {
         checkWidth()
         window.addEventListener('resize', checkWidth)
+
+        setTimeout(() => {
+            artist.value = stores.artists().getArtist(props.code)
+        }, 100)
     })
 
     onUnmounted(() => {

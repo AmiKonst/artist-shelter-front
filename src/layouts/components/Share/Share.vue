@@ -15,7 +15,7 @@
                     <div></div>
                     
                     <!-- Копирование ссылки -->
-                    <button @click="copyToClipboard(window.location.href)">
+                    <button @click="copyToClipboard(`https://artist-shelter.com/${artists.share.code}`)">
                         <span>🔗</span> {{ t('ui.share.link') }}
                     </button>
 
@@ -460,11 +460,46 @@
 
 
     function copyToClipboard(text) {
-       navigator.clipboard.writeText(text);
-       alert("Скопировано в буфер обмена! 🐾");
+        if (navigator.clipboard && window.isSecureContext) {
+            // Современный метод
+            navigator.clipboard.writeText(text).then(() => {
+                alert("Скопировано! 🐾");
+            }).catch(err => {
+                // Если современный метод не сработал, пробуем старый
+                fallbackCopyTextToClipboard(text);
+            });
+        } else {
+            // Старый метод (для HTTP или старых браузеров)
+            fallbackCopyTextToClipboard(text);
+        }
+    }
+
+    function fallbackCopyTextToClipboard(text) {
+        const textArea = document.createElement("textarea");
+        textArea.value = text;
+        
+        // Делаем элемент невидимым, но оставляем в DOM
+        textArea.style.position = "fixed";
+        textArea.style.left = "-9999px";
+        textArea.style.top = "0";
+        document.body.appendChild(textArea);
+        
+        textArea.focus();
+        textArea.select();
+        textArea.setSelectionRange(0, 99999); // Для мобильных устройств
+
+        try {
+            document.execCommand('copy');
+            alert("Скопировано! 🐾");
+        } catch (err) {
+            console.error('Ошибка копирования', err);
+        }
+
+        document.body.removeChild(textArea);
     }
 
     function openShareModal() {
+        document.body.style.overflow = 'hidden';
         showed.value = true;
 
         // 1. Сбрасываем начальное состояние для анимации
@@ -481,6 +516,7 @@
 
     function closeShareModal() {
         showed.value = false;
+        document.body.style.overflow = 'auto';
 
         modal.value.style.transform = 'scale(0.8)';
         modal.value.style.opacity = '0';
@@ -520,7 +556,7 @@
             border-radius:24px;
             padding:25px;
             position:relative;
-            max-height: 96vh;
+            max-height: 600px;
             overflow: auto;
             h3 {
                 text-align:center;

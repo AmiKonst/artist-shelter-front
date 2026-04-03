@@ -90,6 +90,7 @@
     }
 
     function showAdoptionModal(artistName) {
+        document.body.style.overflow = 'hidden';
         showed.value = true;
 
         // Небольшая задержка для плавного появления
@@ -102,6 +103,7 @@
         modal.value.style.transform = 'scale(0.5)';
         setTimeout(() => {
             showed.value = false;
+            document.body.style.overflow = 'auto';
             artists.adopt = null;
         }, 200);
     }
@@ -274,7 +276,7 @@
     }
     #modalOverlay > div {
             max-height: 80vh;
-    overflow: auto;
+    overflow: hidden;
         background:#fff9db; width:90%; max-width:500px; padding:30px; border-radius:20px; border:4px dashed #fd7e14; position:relative; box-shadow: 0 20px 40px rgba(0,0,0,0.3); transform: scale(0.5); transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 
         .icon {
@@ -287,6 +289,9 @@
 
 
         .stats {
+            height: 1%;
+            max-height: 30vh;
+            overflow: auto;
             background:white; padding:20px; border-radius:12px; border:1px solid #e2e8f0;
 
             h4 {
